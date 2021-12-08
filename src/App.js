@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Mehmet Kırçal
         </a>
       </header>
     </div>
